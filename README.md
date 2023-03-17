@@ -12,3 +12,5 @@
 点 Pull requests  -  Update README.md - Resolv conflicts 
 此时两个版本的README.md 已合并，并标注好。进行编辑，然后点 Resolved - Commit merge 。要想结束 点击 CLose pull request.
 
+0317 测试在macbook air clone 到Document.
+用 web 修改项目。commit
